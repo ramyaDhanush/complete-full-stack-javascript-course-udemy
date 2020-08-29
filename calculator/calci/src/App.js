@@ -76,16 +76,15 @@ class App extends Component {
 
     return (
       <div className="App">
-        {this.state.previous.length > 0 ? (
-          <div className="prev-display">
-            {this.state.previous[this.state.previous.length - 1]}
-          </div>
-        ) : null}
-
-        <div className="result" readOnly>
-          {this.state.current}
+        <div>
+          {this.state.previous.length > 0 ? (
+            <div className="prev-display">
+              {this.state.previous[this.state.previous.length - 1]}
+            </div>
+          ) : null}
+          <div className="result"> {this.state.current}</div>
         </div>
-        
+
         <br />
         {buttons.map((btn, i) => {
           return (

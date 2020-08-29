@@ -1,13 +1,18 @@
 div.result {
-  width: 100%;
+  width: 95%;
   height: 60px;
   padding: 10px;
-  margin: 10px;
+  margin: 10px auto;
   border: none;
   background: #aaaa;
   font-size: 30px;
   text-align: right;
-  float: right;
+  border-radius: 3px;
+}
+body{
+  width:70% ;
+  position: relative;
+  margin: auto;
 }
 
 .prev-display {
@@ -39,7 +44,7 @@ button.calc-button {
   height: 100px;
   border: 2px solid #dddddd;
   border-radius: 20px;
-  background: rosybrown;
+  background: #2f2f2f;
   color: #eeee;
   font-size: 25px;
   border-color: chrome;
