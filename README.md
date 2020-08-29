@@ -7,24 +7,24 @@ Available Platforms : Udemy[Paid] , Sharepoint [Free]
 
 ### Course Outline :
 
-##### Introduction
-1. Environment Setup (NodeJS, VSCode)
-2. React Installation (npm create-react-app)
-3. React Project Outline Brief
+##### Introduction :heavy_check_mark:
+1. Environment Setup (NodeJS, VSCode) 
+2. React Installation (npm create-react-app) 
+3. React Project Outline Brief 
 4. React Components
 5. React Lifecycle
 6. React State
 7. Components Props & Re-render
 8. Importing CSS into React Component
 
-##### Project - Calculator
+##### Project - Calculator :heavy_check_mark:
 
 1. Part 1 
 2. Part 2
 
-##### React - Website 
+##### React - Website :pushpin:
 
-1. Website Setup
+1. Website Setup  	
 2. Component Children
 3. React Routing
 4. Route Parameters and HTML Slicing Part -1 
